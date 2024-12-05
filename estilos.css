@@ -1,0 +1,36 @@
+#h1{color: rgb(245, 78, 78); border: 10px dashed rgb(52, 182, 13);}
+#destacado{color: rgb(68, 243, 255);}
+
+h1.ad{
+    text-shadow:red 0px 0px 5px;
+    text-indent: 1%;
+    text-decoration-line:underline;
+    text-decoration-color: blue;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: 5px;
+    border: 5px salmon solid;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image:url(img/ai-generated-colorful-starry-sky-with-sunset-background-in-anime-style-generative-ai-photo.jpg);
+    background-size: 20%;
+}
+
+body{
+    background-image: url(img/hakurei.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div.center{
+    float: center;
+    width: 33%;
+}
+
+div.left{
+    float: left;
+    width: 33%;
+}
+
+div.right{
+    float: right;
+    width: 33%;
+}
